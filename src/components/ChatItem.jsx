@@ -14,7 +14,7 @@ export default function ChatItem({ isUser, content }) {
             </div>):
             
             <div className="bg-gradient-to-r from-purple-500 to-pink-500 p-2 rounded font-medium">
-              CáGPT
+              Cá
             </div>}
           </div>
         </div>
